@@ -1,1 +1,4 @@
-# apollox-trading-bot
+# ApolloX Trading Bot
+
+Use `./ping` to test connectivity
+
