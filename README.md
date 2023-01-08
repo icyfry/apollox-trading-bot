@@ -1,4 +1,4 @@
 # ApolloX Trading Bot
 
-Use `./ping` to test connectivity
-
+* `task ping` : test connectivity
+* `task balances` : retrieve balances

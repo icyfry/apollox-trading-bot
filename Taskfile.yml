@@ -1,0 +1,13 @@
+version: '3'
+
+dotenv: ['.env']
+
+tasks:
+  ping:
+    dir: scripts
+    cmds:
+      - python3 ping.py
+  balances:
+    dir: scripts
+    cmds:
+      - python3 balances.py
